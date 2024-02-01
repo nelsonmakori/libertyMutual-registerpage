@@ -1,0 +1,89 @@
+#backGround{
+  background-color:rgb(192,249,242) ;
+  width: 600px;
+  height: 70vh;
+  margin: auto;
+  border: 1px solid black;
+  border: none;
+}
+#whiteGround{
+  position: relative; 
+  top: 20px;
+  width: 455px;
+  background-color: white;
+  height: 67vh;
+  margin-left: 30px;
+  margin: auto;
+}
+  
+  
+  
+
+.register{
+  position: relative;
+  right: 20px;
+  background-color:white;
+  width: 90%;
+  top: 27px;
+  color: gray;
+  padding-left: 15px;
+  height: 62vh;
+}
+h3{
+  font-size: 13px;
+  color: grey;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+input{
+  margin-top: 10px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-width: 1px;
+  padding: 7px;
+}
+::placeholder{
+  font-size: 10px;
+}
+button{
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+  font-size: 7px;
+  padding: 7px;
+  width: 26%;
+  border: none;
+}
+#logIn{
+  font-size: 0.8rem ;
+  color: blue;
+  margin-left: 45px;
+}
+#acountRegister{
+  font-size: 0.8rem;
+
+}
+#mail{
+  margin-bottom: -10px;
+}
+img{
+  position: relative;
+  left: 150px;
+  width: 70%;
+  bottom: 260px;
+  height: 61.5vh;
+  margin-left: 32px;
+}
+.gray-background{
+  background-color: #F3F3F4;
+  width: 90%;
+  height: 72vh;
+  padding-left: 20px;
+  margin: auto;
+  margin-top: 30px;
+  padding-top: 20px;
+}
+  
