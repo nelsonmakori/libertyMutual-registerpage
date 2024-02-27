@@ -28,6 +28,7 @@
   color: gray;
   padding-left: 15px;
   height: 62vh;
+  cursor: pointer;
 }
 h3{
   font-size: 13px;
