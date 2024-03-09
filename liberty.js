@@ -17,7 +17,17 @@ email.addEventListener('keyup',()=>{
   displayEmail.innerText = email.value
   //createAccount.style.backgroundColor = 'green'
 })
+
 createAccount.addEventListener('click',()=>{
   createAccount.style.backgroundColor = 'green'
   createAccount.style.fontSize = '10px';
 })
+
+ const login = document.getElementById('login')
+ let password = document.getElementById('password')
+ let pin = 12345678
+
+ 
+  
+
+

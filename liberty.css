@@ -1,33 +1,37 @@
 #backGround{
   background-color:rgb(192,249,242) ;
   width: 600px;
-  height: 70vh;
+  padding-top: 30px;
+  height: 359px;
   margin: auto;
   border: 1px solid black;
   border: none;
 }
 #whiteGround{
-  position: relative; 
-  top: 20px;
-  width: 455px;
-  background-color: white;
-  height: 67vh;
+  width:80%;
+  background-color:#fff;
+  height: 339px;
   margin-left: 30px;
   margin: auto;
+  padding-top: 20px;
+  
 }
   
   
   
 
 .register{
-  position: relative;
-  right: 20px;
-  background-color:white;
-  width: 90%;
-  top: 27px;
+  background-color:#fff;
+  width: 103%;
   color: gray;
   padding-left: 15px;
-  height: 62vh;
+  height: 326px;
+  margin-left: -20px;
+  
+  
+  
+  
+
   cursor: pointer;
 }
 h3{
@@ -39,7 +43,7 @@ body{
   padding: 0;
 }
 input{
-  margin-top: 10px;
+  /* margin-top: 10px; */
   border-top: none;
   border-right: none;
   border-left: none;
@@ -67,24 +71,48 @@ button{
   font-size: 0.8rem;
 
 }
-#mail{
-  margin-bottom: -14px;
+#email{
+  margin-top: -30px;
 }
 img{
-  position: relative;
-  left: 150px;
-  width: 70%;
+  
+  padding-top:27px;
+  width: 60%;
   bottom: 295px;
-  height: 62.5vh;
-  margin-left: 32px;
+  height: 326px;
+  margin-left: 197.2px;
+  margin-top: -306.3px;
+  
+  /* bottom: 296.5px; */
 }
 .gray-background{
   background-color: #F3F3F4;
   width: 90%;
-  height: 72vh;
+  height: 390px;
   padding-left: 20px;
   margin: auto;
   margin-top: 30px;
   padding-top: 20px;
+  background-size: contain;
+}
+
+
+h1{
+  width: 50%;
+  margin: auto;
+  margin-top: 10px;
+}
+#displayEmail{
+  font-size: 0.7rem;
+  margin: 0;
+  padding: 0;
+  height:0.3px;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+#login{
+  color: rgb(26, 26, 141);
 }
   
