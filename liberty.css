@@ -10,10 +10,11 @@
 #whiteGround{
   width:80%;
   background-color:#fff;
-  height: 339px;
+  height: 339.5px;
   margin-left: 30px;
   margin: auto;
   padding-top: 20px;
+  
   
 }
   
@@ -27,11 +28,6 @@
   padding-left: 15px;
   height: 326px;
   margin-left: -20px;
-  
-  
-  
-  
-
   cursor: pointer;
 }
 h3{
@@ -62,10 +58,12 @@ button{
   width: 26%;
   border: none;
 }
-#logIn{
+#login{
   font-size: 0.8rem ;
-  color: blue;
-  margin-left: 45px;
+  color: #fff;
+  margin-left: 3px;
+  font-size: 7px;
+  
 }
 #acountRegister{
   font-size: 0.8rem;
@@ -79,9 +77,9 @@ img{
   padding-top:27px;
   width: 60%;
   bottom: 295px;
-  height: 326px;
+  height: 325px;
   margin-left: 197.2px;
-  margin-top: -306.3px;
+  margin-top: -320px;
   
   /* bottom: 296.5px; */
 }
@@ -107,12 +105,16 @@ h1{
   margin: 0;
   padding: 0;
   height:0.3px;
+  color: darkcyan;
+}
+#displayMessage{
+  font-size:0.6rem ;
+  height: 0.3px;
+  color: green;
 }
 body{
   margin: 0;
   padding: 0;
 }
-#login{
-  color: rgb(26, 26, 141);
-}
+
   
